@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.java;
 //list of strings and print the string that matches if they have the same length 
 
 //ram=man, sita =gita
